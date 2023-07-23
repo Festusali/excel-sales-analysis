@@ -40,3 +40,19 @@ From the result as shown in below graph, it was discovered that;
 #### NOTE:
 
 > It is important to note that the product with the highest **Average Sales** doesn't automatically translate to the *Best Performer* as the purchase and selling price for each product vary by wie margins.
+
+### Orders by Country and State
+
+The analysis also looked at how orders were made across countries and state/region. The result of the findings was plotted using sunburn and the distribution is as below.
+
+![Orders By Country & State](./country-state-orders.png "Orders made acorss countries and their states.")
+
+Looking at the graph above, we can immediately see that;
+
+* **United States** made the largest orders. We can also see that **California** and **Washinghton** made made the largest orders across the US.
+* **Australia** made the second largest orders. Within here, we can see that **New South Wales** and **Victoria** made the largest orders.
+* The 3rd largest orders were made by **Canada** with **British Columbia** dominating the order chain by very wide margin.
+
+#### SUGGESTION
+
+> With the result above, it is important to take measures in ensuring that the dominant countries are properly served. However, it is as much important to further study the reason for poor orders coming from **France** and **Germany** too.
