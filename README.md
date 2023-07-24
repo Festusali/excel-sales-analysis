@@ -1,6 +1,5 @@
 # Data Analysis With Microsoft Excel
 
-
 ## Introduction
 
 > This analysis is focused on analyzing organization's sales data. The data is in an Excel Workbook and contains information on various sales made across multiple sales line for various products.
@@ -16,9 +15,11 @@ The workbook contains:
 * **60398** rows of sales data
 * **24** columns of sales attribute.
 
+
 ## Work Done
 
 Various data cleaning and formatting operations was carried out to get the desired results.
+
 
 ## Result
 
@@ -41,6 +42,8 @@ From the result as shown in below graph, it was discovered that;
 
 > It is important to note that the product with the highest **Average Sales** doesn't automatically translate to the *Best Performer* as the purchase and selling price for each product vary by wie margins.
 
+
+
 ### Orders by Country and State
 
 The analysis also looked at how orders were made across countries and state/region. The result of the findings was plotted using sunburn and the distribution is as below.
@@ -56,3 +59,42 @@ Looking at the graph above, we can immediately see that;
 #### SUGGESTION
 
 > With the result above, it is important to take measures in ensuring that the dominant countries are properly served. However, it is as much important to further study the reason for poor orders coming from **France** and **Germany** too.
+
+
+
+### Sales Trend Over Time
+
+On the move to uncover more insights, the dataset was analyzed for the Trend of Sales Over Time. The result of this analysis was plotted using a **Line Chart** which helped clearly visualize how sales was made over the years and months. The result is as shown below.
+
+![TOTAL SALES OVER TIME](./total-sales-trend.png "Total Sales Trend Over Time")
+
+Looking at the chart above, we can immediately see that;
+
+* It is immediately obvious that there was a dramatic boost in sales within the year 2020.
+* Sales was at an all-time high in **May 2020**.
+* Boost in sales started in **June 2019** having it's peak in **November**.
+* We can also see that sales was at an all-time low in **2018**.
+
+#### OBSERVATION
+
+> With the result above, the highest sales of **$2159943** could possibily be attributed to **Lockdown** across the globe where people are mainly confirned to their homes because of **Covid-19**.
+
+
+
+## Final Thought
+
+The choice to level up on **Microsoft Excel** skills was worth it. The insights uncovered during the course of this analysis was amazing and gives me joy. I will be glad to learn better and collaborate on **Analysis Projects** requiring to skills of an **Analyst**.
+
+A recommendation from you will make all the difference towards my aim of becomaing a seasoned **Data Scientist**.
+
+
+## Thank you
+
+Thanks for the valuable time spent reading this far. I appreciate immensely.
+
+### Follow Me
+
+I love to build amazing connection with people and it starts with you. I love to learn and teach, hence, connecting with you will make that a reality. On this note, please connect with me on social networks using links below.
+
+| [![Portfolio](./portfolio.png "Checkout my Portfolio")](https://festusali.com "Checkout my Portfolio") | [![Github](./github.png "Connect On Github")](https://github.com/Festusali "Connect On Github") | [![LinkedIn](./linkedin.png "Connect On LinkedIn")](https://linkedin.com/in/festus-ali "Connect On LinkedIn") | [![Twitter](./twitter.png "Connect On Twitter")](https://twitter.com/alifestus "Connect On Twitter") | [![Facebook](./facebook.png "Connect On Facebook")](https://facebook.com/festus.ali.560/ "Connect On Facebook") |
+| ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
